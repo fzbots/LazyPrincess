@@ -7,9 +7,7 @@ Glad to see you here. It seems that you really love <a href=https://t.me/stylish
     LZLINK_TEXT = """Hey {},
 Glad to see you here. It seems that you really love <a href=https://t.me/stylishboyfaiz >𖣘ᴹᴿ๛CRAZYᴮᴼᵞ🕊️⃝🦋's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/Faiz_Movies>Backup Channel</a> and stay tuned for next <a href=https://t.me/Faiz_Movies>update</a>.\n\n  🐞 Report Bug here: <a href=https://t.me/allinonefor_movies>Support Chat</a>
     """
-    DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/stylishboyfaiz >𖣘ᴹᴿ๛CRAZYᴮᴼᵞ🕊️⃝🦋's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
-    """
+        """
     REQ_AUTH_TEXT = """Hello {},
 \nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/stylishboyfaiz>𖣘ᴹᴿ๛CRAZYᴮᴼᵞ🕊️⃝🦋</a>\n\n
     """
